@@ -9,7 +9,6 @@ This is a ever growing list and document, the idea around it for me is to help a
 ## Portfolio - Chance to show off
 
 
-
 ## Hardware - What i have and use
 - Macbook Pro - Mid 2013, 8GB RAM, Catalina OS<br/>
 - 27inch ViewSonic VA2719-SH - <a href="https://www.amazon.co.uk/gp/product/B06X8WL6LB/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1" target="_blank">Click to View</a>
