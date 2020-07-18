@@ -7,7 +7,7 @@ This is a ever growing list and document, the idea around it for me is to help a
 ------------------------------------------------
 
 ## Portfolio - Chance to show off
-<a href="#" target="_blank">![a test portfolio](https://unsplash.com/photos/Gi3iUJ1FwxI)</a>
+
 
 
 ## Hardware - What i have and use
