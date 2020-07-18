@@ -1,9 +1,13 @@
 # I'm Wayne Fox a Frontend Developer Based in UK
+## Blog & Portfolio<a href="https://waynefoxdev"> Waynefoxdev</a>
 This is a ever growing list and document, the idea around it for me is to help any other developer with the list of extensions for vscode to chrome and firefox to hardware and home office equipment, and even to show that no matter your age you can make a change and advance yourself, to assist in show that not even i started out using the most advanced softwares or hardware around and that so can any one else, and one last thing, to show prespective employers what i use and have as info would not fit on a modern CV / Resume
 
 ------------------------------------------------
 ## There are no affiliate links on this document
 ------------------------------------------------
+
+## Portfolio - Chance to show off
+
 
 ## Hardware - What i have and use
 - Macbook Pro - Mid 2013, 8GB RAM, Catalina OS<br/>
@@ -49,5 +53,7 @@ This is a full list of the software's that i use daily, some are used from start
 ## Regularly Used Websites
 
 ## My work Experience - My life of work
+
+## CV / RESUME - Download Link
 
 
