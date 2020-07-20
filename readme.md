@@ -37,7 +37,10 @@ This is a full list of the software's that i use daily, some are used from start
     - <a href="https://marketplace.visualstudio.com/items?itemName=octref.vetur">Vetur</a>
  - Terminal
  - Github
- - Firefox Developer Edition
+ - Firefox Developer Edition<br/>
+   Extensions
+   - React Devtools
+   - Vue DevTools
  - Google Chrome<br/>
     Extensions
     - Vue DevTools
