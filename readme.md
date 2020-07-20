@@ -1,4 +1,4 @@
-![Chair and desk](./images/hero.jpg)
+![Chair and desk](images/hero.jpg)
 <!-- <img src="./images/hero.jpg" alt="CHair and desk" /> -->
 
 # I'm Wayne Fox a Frontend Developer Based in UK
