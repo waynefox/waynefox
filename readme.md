@@ -68,6 +68,8 @@ This is a full list of the software's that i use daily, some are used from start
 - XD
 
 ## Regularly Used Websites
+- stackoverflow
+- google
 
 ## My work Experience - My life of work
 
