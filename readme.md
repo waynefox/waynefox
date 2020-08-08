@@ -6,10 +6,6 @@ This is a ever growing list and document, the idea around it for me is to help a
 
 ---
 
-## There are no affiliate links on this document
-
----
-
 ## Portfolio - Chance to show off
 
 ## Hardware - What i have and use
@@ -27,11 +23,12 @@ Vue JS<br/>
 
 ## Education - Courses Taken or Taking
 
-Linkedin Learning
-
-- Wordpress 5 Essential Training
-
 Udemy
+
+- <a href="https://www.udemy.com/course/modern-react-bootcamp/">The Modern React Bootcamp (Hooks, Context, NextJS, Router) - Colt Steele</a>
+- <a href="https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/16997986?start=0#overview">The Modern Javascript Bootcamp Course (2020) - Colt Steele</a>
+- <a href="https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/">JavaScript Web Projects: 20 Projects to Build Your Portfolio - Andrei Neagoie</a>
+- <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/">20 Web Projects With Vanilla JavaScript - Brad Traversy</a>
 
 ## Softwares - What i use on a daily basis
 
@@ -39,16 +36,21 @@ This is a full list of the software's that i use daily, some are used from start
 
 - VS Code<br/>
   Extensions
-  - <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">Python</a>
-  - <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Auto Close Tag</a>
-  - <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
-  - <a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight">Color Highlight</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets">ES7 React/Redux/GraphQL/React-Native snippets</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint#review-details">ESLint</a>
   - <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">GitLens</a>
   - <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass">Live Sass Compiler</a>
   - <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced">Markdown Preview Enhanced</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Auto Close Tag</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight">Color Highlight</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag">Highlight Matching Tag</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer">Bracket Pair Colorizer</a>
   - <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a>
   - <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier</a>
-  - <a href="https://marketplace.visualstudio.com/items?itemName=octref.vetur">Vetur</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode">New Moon Syntax Theme</a>
+  - <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">Python</a>
 - Terminal
 - Github
 - Firefox Developer Edition<br/>
@@ -57,11 +59,10 @@ This is a full list of the software's that i use daily, some are used from start
   - Vue DevTools
 - Google Chrome<br/>
   Extensions
-  - Vue DevTools
   - React Developer Tools
   - Redux DevTools
+  - Vue DevTools
   - Grammerly
-  - Honey
   - JSON Formatter
 - Photoshop
 - XD
