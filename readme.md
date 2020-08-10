@@ -25,6 +25,7 @@ Vue JS<br/>
 
 Udemy
 
+- <a href="https://www.udemy.com/course/complete-python-developer-zero-to-mastery/">Complete Python Developer in 2020: Zero to Mastery - Andrei Neagoie</a>
 - <a href="https://www.udemy.com/course/modern-react-bootcamp/">The Modern React Bootcamp (Hooks, Context, NextJS, Router) - Colt Steele</a>
 - <a href="https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/16997986?start=0#overview">The Modern Javascript Bootcamp Course (2020) - Colt Steele</a>
 - <a href="https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/">JavaScript Web Projects: 20 Projects to Build Your Portfolio - Andrei Neagoie</a>
