@@ -2,18 +2,19 @@
 
 ## Blog & Portfolio<a href="https://waynefoxdev.com" target="_blank"> Waynefoxdev</a>
 
-This is a ever growing list and document, the idea around it for me is to help any other developer with the list of extensions for vscode to chrome and firefox to hardware and home office equipment, and even to show that no matter your age you can make a change and advance yourself, to assist in show that not even i started out using the most advanced softwares or hardware around and that so can any one else, and one last thing, to show prespective employers what i use and have as info would not fit on a modern CV / Resume
+I'm a self-taught developer with a passion for JavaScript and becoming a full-time developer in React and its eco system. I'm working towards a career change from taxi driving to Web- development.
+I Love to learn and have found that JavaScript and React bring the most interest.
 
 ---
 
-## Portfolio - Chance to show off
+## Portfolio
 
-## Hardware - What i have and use
+## Hardware
 
 - Macbook Pro - Mid 2013, 8GB RAM, Catalina OS<br/>
 - 27inch ViewSonic VA2719-SH - <a href="https://www.amazon.co.uk/gp/product/B06X8WL6LB/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1" target="_blank">Click to View</a>
 
-## Programming Languages - What i'm proficient at
+## Programming Languages
 
 HTML<br/>
 CSS<br/>
@@ -25,11 +26,11 @@ Vue JS<br/>
 
 Udemy
 
-- <a href="https://www.udemy.com/course/complete-python-developer-zero-to-mastery/">Complete Python Developer in 2020: Zero to Mastery - Andrei Neagoie</a>
 - <a href="https://www.udemy.com/course/modern-react-bootcamp/">The Modern React Bootcamp (Hooks, Context, NextJS, Router) - Colt Steele</a>
 - <a href="https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/16997986?start=0#overview">The Modern Javascript Bootcamp Course (2020) - Colt Steele</a>
 - <a href="https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/">JavaScript Web Projects: 20 Projects to Build Your Portfolio - Andrei Neagoie</a>
 - <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/">20 Web Projects With Vanilla JavaScript - Brad Traversy</a>
+- <a href="https://www.udemy.com/course/complete-python-developer-zero-to-mastery/">Complete Python Developer in 2020: Zero to Mastery - Andrei Neagoie</a>
 
 ## Softwares - What i use on a daily basis
 
@@ -68,10 +69,24 @@ This is a full list of the software's that i use daily, some are used from start
 - Photoshop
 - XD
 
-## Regularly Used Websites
-- stackoverflow
-- google
+## My Work Experience - My life of work
 
-## My work Experience - My life of work
+Im not gonna lie, i feel old sometimes being a developer, i started my development path at 40 and have been working hard to get a development job. before that though i owned my own taxi business in the north east of england, self employed for over 12 years
 
 ## CV / RESUME - Download Link
+
+<a href="https://www.waynefoxdev.com">Wayne Fox Dev</a><br/>
+<a href="https://www.twitter.com/waynefoxdev">Twitter Profile</a><br/>
+<a href="https://www.linkedin.com/in/waynefoxdev/">Linkedin Profile</a>
+
+## LOOKING FOR WORK
+
+I'm currently looking for work and am available for inhouse and remote developer positions like
+
+### JavaScript Developer
+
+### React Developer
+
+### Junior or Entry Level JavaScript Developer
+
+### Junior or Entry Level React Developer
