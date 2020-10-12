@@ -1,10 +1,11 @@
 
 
-<img src="./github-head.png" alt="wayne fox intro image" />
 
 <br />
 
 ## 💼 <a href="https://waynefoxdev.com" target="_blank"> Waynefoxdev</a>
+
+<img src="./github-head.png" alt="wayne fox intro image" />
 
 <br/>
  
