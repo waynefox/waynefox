@@ -1,6 +1,6 @@
 
 
-<img src="https://drive.google.com/file/d/1U1HPEACv-Z7oyGxe9jDl4qa8drMIVVI9/view?usp=sharing" alt="wayne fox intro image" />
+<img src="./github-head.png" alt="wayne fox intro image" />
 
 <br />
 
