@@ -4,12 +4,26 @@
 ## 💼 <a href="https://waynefoxdev.com" target="_blank"> Waynefoxdev</a>
 
 <br/>
-
-👋👋👋 I'm Wayne Fox a passionate Frontend Web Developer specializing in JavaScript and React JS. until a couple of years ago i was a self employed taxi driver looking a career that i did not think i cold get into, but im here and raring to go.
+ 
+I'm Wayne Fox <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> a passionate Frontend Web Developer specializing in JavaScript and React JS. until a couple of years ago i was a self employed taxi driver looking a career that i did not think i cold get into, but im here and raring to go.
 
 I love JavaScript and enjoy working with React JS and Vue JS but with most of my interest in React. i wake every day with the intent to learn something new and push my knowledge to a new degree.
 
+<a href="https://twitter.com/waynefoxdev">
+  <img align="left" alt="Wayne Fox Dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/waynefoxdev/">
+  <img align="left" alt="Wayne Fox Dev LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</a>
+<a href="https://www.github.com/waynefoxdev">
+  <img align="left" alt="Github Wayne Fox Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br/>
+
 ---
+
 
 ## ⌨️ Programming Languages
 
