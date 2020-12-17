@@ -13,14 +13,14 @@ I'm Wayne Fox <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 
 I love JavaScript and enjoy working with React JS and Vue JS but with most of my interest in React. i wake every day with the intent to learn something new and push my knowledge to a new degree.
 
-<a href="https://twitter.com/waynefoxdev">
-  <img align="left" alt="Wayne Fox Dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/mindfulnerd_">
+  <img align="left" alt="Wayne Fox | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/waynefoxdev/">
   <img align="left" alt="Wayne Fox Dev LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </a>
-<a href="https://www.github.com/waynefoxdev">
+<a href="https://www.github.com/waynefox">
   <img align="left" alt="Github Wayne Fox Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -35,7 +35,6 @@ HTML<br/>
 CSS<br/>
 JavaScript<br/>
 React JS<br/>
-Vue JS<br/>
 
 ---
 
@@ -54,7 +53,7 @@ Im not gonna lie, i feel old sometimes being a developer, i started my developme
 ## 🔗 Social Links
 
 <a href="https://www.waynefoxdev.com">Wayne Fox Dev</a><br/>
-<a href="https://www.twitter.com/waynefoxdev">Twitter Profile</a><br/>
+<a href="https://www.twitter.com/mindfulnerd_">Twitter Profile</a><br/>
 <a href="https://www.linkedin.com/in/waynefoxdev/">Linkedin Profile</a><br/>
 <a href="https://www.github.com/waynefox/">Github Profile</a>
 
